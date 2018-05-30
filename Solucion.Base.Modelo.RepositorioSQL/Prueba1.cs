@@ -21,7 +21,8 @@ namespace Solucion.Base.Modelo.RepositorioSQL
         public int nuevo(string descripcion, int Codigo,int ejecucion)
         {
             int id;
-            SqlCommand cmd = openconection("Sparea");
+            SqlConnection conexcion = conection();
+            SqlCommand cmd = openconection(conexcion, "calidad.SP_Sistemas ");
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@descripcion", descripcion);
             cmd.Parameters.AddWithValue("@codigo", Codigo);
