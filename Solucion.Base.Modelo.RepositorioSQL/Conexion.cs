@@ -16,19 +16,20 @@ namespace Solucion.Base.Modelo.RepositorioSQL
         string connStr = ConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString;
 
 
-        public SqlCommand openconection(string stroreprocedure)
+       public SqlConnection conection()
+        {
+            SqlConnection connectar = new SqlConnection(connStr);
+            return connectar;
+                
+        }
+
+        public SqlCommand openconection(SqlConnection connectar,string stroreprocedure)
         {
             try
-            {
-                using(SqlConnection connectar=new SqlConnection(connStr))
-                {
-                   
+            {     
                     SqlCommand cmd = new SqlCommand(stroreprocedure, connectar);
                     connectar.Open();
                 return cmd;
-                }
-                
-                
                
             }
             catch (SqlException ex)
