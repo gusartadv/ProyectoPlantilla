@@ -1,0 +1,10 @@
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\obj\Debug\WcfParam.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\WcfParam.dll.config
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\WcfParam.dll
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\WcfParam.pdb
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\Solucion.Base.Modelo.Entidades.dll
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\Solucion.Base.Modelo.RepositorioSQL.dll
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\Solucion.Base.Modelo.Entidades.pdb
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\bin\Solucion.Base.Modelo.RepositorioSQL.pdb
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\obj\Debug\WcfParam.dll
+E:\Documents\GitHub\ProyectoPlantilla\WcfParam\obj\Debug\WcfParam.pdb

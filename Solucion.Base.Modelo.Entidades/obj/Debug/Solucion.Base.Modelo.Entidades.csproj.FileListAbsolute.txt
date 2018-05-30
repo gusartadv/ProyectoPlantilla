@@ -1,0 +1,5 @@
+E:\Documents\GitHub\ProyectoPlantilla\Solucion.Base.Modelo.Entidades\bin\Debug\Solucion.Base.Modelo.Entidades.dll
+E:\Documents\GitHub\ProyectoPlantilla\Solucion.Base.Modelo.Entidades\bin\Debug\Solucion.Base.Modelo.Entidades.pdb
+E:\Documents\GitHub\ProyectoPlantilla\Solucion.Base.Modelo.Entidades\obj\Debug\Solucion.Base.Modelo.Entidades.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\ProyectoPlantilla\Solucion.Base.Modelo.Entidades\obj\Debug\Solucion.Base.Modelo.Entidades.dll
+E:\Documents\GitHub\ProyectoPlantilla\Solucion.Base.Modelo.Entidades\obj\Debug\Solucion.Base.Modelo.Entidades.pdb
